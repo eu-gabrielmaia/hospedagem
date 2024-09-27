@@ -1,9 +1,19 @@
 body{
+    font-family: 'Arial';
     background: blueviolet;
     color: white;
+    margin: 10px;
+}
+
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 p{
-    font-size: 18px;
+    font-size: 1em;
     font-weight: bold;
+    text-align: justify;
 }
